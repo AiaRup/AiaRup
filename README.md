@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+[1.2]: http://i.imgur.com/wWzX9uB.png
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
+[1]: https://twitter.com/AiaRupsom
+[2]: https://www.linkedin.com/in/aia-rupsom
+
 ![Aia's github stats](https://github-readme-stats.vercel.app/api?username=AiaRup&show_icons=true&count_private=true&theme=nightowl)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AiaRup&layout=compact&theme=nightowl)
