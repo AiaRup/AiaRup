@@ -2,7 +2,7 @@
 
 My name is Aia Rupsom and I'm a Full Stack Developer with a passion for creating new things🌱, and a proud [#adalaber](https://adalab.es/). You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
-## 🔧 Skills & Tools
+## 🤹 Skills & Tools
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=8665a1&labelColor=04111f)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=8665a1&labelColor=04111f)
@@ -16,7 +16,7 @@ My name is Aia Rupsom and I'm a Full Stack Developer with a passion for creating
 ![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=8665a1&labelColor=04111f)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=8665a1&labelColor=04111f)
 
-## &#x1f4c8; My GitHub Stats
+## 📊 My GitHub Stats
 
 <a href="https://github.com/AiaRup/AiaRup">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AiaRup&show_icons=true&count_private=true&theme=nightowl" alt="Aia's GitHub Stats"/>
