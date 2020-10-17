@@ -7,9 +7,14 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 [1]: https://twitter.com/AiaRupsom
 [2]: https://www.linkedin.com/in/aia-rupsom
 
-![Aia's github stats](https://github-readme-stats.vercel.app/api?username=AiaRup&show_icons=true&count_private=true&theme=nightowl)
+## &#x1f4c8; My GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AiaRup&layout=compact&theme=nightowl)
+<a href="https://github.com/AiaRup/AiaRup">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AiaRup&show_icons=true&count_private=true&theme=nightowl" alt="Aia's GitHub Stats"/>
+</a>
+<a href="https://github.com/AiaRup/AiaRup">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiaRup&layout=compact&theme=nightowl" alt="Aia's Top Languages" />
+</a>
 
 <!--
 **AiaRup/AiaRup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
