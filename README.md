@@ -19,8 +19,8 @@
 ## >\_ GitHub Stats
 
 <a href="https://github.com/AiaRup/AiaRup">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AiaRup&show_icons=true&count_private=true&title_color=#0d3a58&icon_color=#ffffff&title_color=#f0576b&hide_border=true" alt="Aia's GitHub Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AiaRup&show_icons=true&count_private=true&bg_color=0d3a58&icon_color=f0576b&title_color=f0576b&text_color=ffffff&hide_border=true" alt="Aia's GitHub Stats"/>
 </a>
 <a href="https://github.com/AiaRup/AiaRup">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiaRup&layout=compact&langs_count=10&title_color=#0d3a58&icon_color=#ffffff&title_color=#f0576b&hide_border=true" alt="Aia's Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiaRup&layout=compact&langs_count=8&bg_color=0d3a58&icon_color=f0576b&title_color=f0576b&text_color=ffffff&hide_border=true" alt="Aia's Top Languages" />
 </a>
