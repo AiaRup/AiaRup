@@ -1,4 +1,4 @@
-![Banner](https://user-images.githubusercontent.com/35365209/139800560-cf26ad8f-4620-470e-bfd5-dd6c9323ab6c.png)
+![Banner](https://user-images.githubusercontent.com/35365209/139809138-9d5e55d2-39e5-4418-bf55-870701be5403.png)
 
 ## >\_ Skills & Tools
 
