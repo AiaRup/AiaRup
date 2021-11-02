@@ -1,4 +1,4 @@
-![AIA Rupsom (1)](https://user-images.githubusercontent.com/35365209/139538570-6a541b41-a6ba-491f-9657-af6ff9363809.png)
+![Banner](https://user-images.githubusercontent.com/35365209/139800560-cf26ad8f-4620-470e-bfd5-dd6c9323ab6c.png)
 
 ## >\_ Skills & Tools
 
